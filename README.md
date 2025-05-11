@@ -21,7 +21,7 @@ Sistema de controle de estoque desenvolvido em Python com interface gráfica usa
 1. Instale o Python: https://www.python.org/
 2. Execute o `main.py`
 3. Crie um usuário administrador manualmente no banco de dados 
-    (O Banco de dados presente neste repositório já possui um Usuário Administrador cadastrado - Login: admin / Senha:)
+    (O Banco de dados presente neste repositório já possui um Usuário Administrador cadastrado - Login: admin / Senha: admin123)
 
 ## Estrutura
 ```
